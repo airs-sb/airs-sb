@@ -42,8 +42,7 @@ Skyblock Seller & Full Stack Developer
 
 ## 👨‍💻 Open Source Projects
 
-- [SkyblockStats](https://github.com/$/$) - A basic script to get statistics via [skyblockparser](https://github.com/noemt-studios/skyblockparser) (**SOON**)
-- [BedwarsStats](https://github.com/$/$) - A basic script to get statistics via [Hypixel API](https://developer.hypixel.net/) (**SOON**)
+- [Listing Bot]([https://github.com/$/$](https://github.com/airs-sb/hypixel-listing-bot)) - A basic script to get statistics via [skyblockparser](https://github.com/noemt-studios/skyblockparser) (**SOON**)
 
 ---
 
