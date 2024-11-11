@@ -42,7 +42,7 @@ Skyblock Seller & Full Stack Developer
 
 ## 👨‍💻 Open Source Projects
 
-- [Listing Bot]([https://github.com/$/$](https://github.com/airs-sb/hypixel-listing-bot)) - A basic script to get statistics via [skyblockparser](https://github.com/noemt-studios/skyblockparser) (**SOON**)
+- [Listing Bot]([https://github.com/$/$](https://github.com/airs-sb/hypixel-listing-bot)) - A basic script to get statistics via [skyblockparser](https://github.com/noemt-studios/skyblockparser)
 
 ---
 
