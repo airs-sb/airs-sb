@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm `airs`
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cephetir&theme=github_dark)
 Skyblock Seller & Full Stack Developer
 
 
