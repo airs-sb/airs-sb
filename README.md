@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm `airs`
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=airs-sb&theme=github_dark)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+airs)](https://git.io/typing-svg)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=airs-sb&theme=github_dark) 
 
 
 ## 🚀 About Me
