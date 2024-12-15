@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm `airs`
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+airs)](https://git.io/typing-svg)   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=airs-sb&theme=github_dark) 
 
 
