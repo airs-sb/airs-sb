@@ -1,11 +1,10 @@
 # Hi there! 👋 I'm `airs`
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=airs-sb&theme=github_dark)
-Skyblock Seller & Full Stack Developer
 
 
 
 ## 🚀 About Me
-
+- 🌐 Skyblock Seller & Full Stack Developer
 - 🔭 I’m currently working on **Hypixel Skyblock Listing Bot**
 - 🌱 I’m currently learning **Node.js**
 - 📫 How to reach me: **`airterm` on discord**
